@@ -15,6 +15,6 @@ printf("ENTER MARKS IN FIFTH SUBJECT OUT OF 100:");
 scanf("%d",&e);
 f=a+b+c+d+e;
 g=f/5;
-printf("percentage of the student is %d",g);
+printf("percentage of the student is %d%%",g);
 return 0;
 }
