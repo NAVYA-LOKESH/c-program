@@ -1,4 +1,4 @@
-/*This is a program to find square root of a number*/
+/*This is a program to find area of a square*/
 #include<stdio.h>
 #include<math.h>
 int main()
