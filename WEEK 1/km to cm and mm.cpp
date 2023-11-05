@@ -1,6 +1,6 @@
-/*program to convert kilometer to centimeter and millimeter*/
+/*program to convert kilometer to metre,centimeter and millimeter*/
 #include<stdio.h>
-main()
+int main()
 {
 	int a,x,y,z;
 	printf("Enter the number of kilometers:");
