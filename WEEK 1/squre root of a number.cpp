@@ -4,7 +4,7 @@
 int main()
 {
 float a,b;
-printf("Enter any number:",a);
+printf("Enter any number:");
 scanf("%f",&a);
 b =sqrt (a);
 printf("Square root of the given number is %f",b);
