@@ -2,7 +2,8 @@
 #include<stdio.h>
 int main()
 {
-int a,b;
+int a;
+float b;
 printf("THE RADIUS OF THE CIRCLE IS:");
 scanf("%d",&a);
 b=3.14*a*a;
