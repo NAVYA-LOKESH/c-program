@@ -11,7 +11,7 @@ int main()
 	}
 	else{
 		if(a==b || b==c || a==c)
-		printf("Two numbers are equal and the number is %f",a);
+		printf("Two numbers are equal");
 		else 
 		printf("The three numbers are different");
 	    }
